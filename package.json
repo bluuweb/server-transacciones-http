@@ -1,0 +1,16 @@
+{
+    "name": "productos-api-rest-1",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon -e js,html index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.0.0",
+        "pg": "^8.7.1"
+    }
+}
